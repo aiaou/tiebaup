@@ -2,4 +2,4 @@
 
 ## 今日签到状态
 
-![Baidu Tieba Auto Sign](https://github.com/aiaou/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
+![Baidu Tieba Auto Sign](https://github.com/aiaou/tiebaup/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
